@@ -62,7 +62,7 @@
     - *Asteroid*
     - *Death Star*
     - *X-Wing*
-  - *Mass* - масата на тялото в
+  - *Mass* - масата на тялото в kg
   - *Size* - размер на тялото
     - `float`
   - *Position* - началната позиция на тялото

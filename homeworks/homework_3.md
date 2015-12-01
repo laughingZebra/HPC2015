@@ -107,13 +107,13 @@
       float time; // timestamp of the collision
       int body1; // id of the first collided body
       int body2; // id of the second collided body
-    }
+    };
 
     struct BodyPosition
     {
       int body;
       Vector3D position;
-    }
+    };
 
     struct Result
     {
